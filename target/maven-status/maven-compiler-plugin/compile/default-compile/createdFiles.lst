@@ -1,0 +1,7 @@
+com\prog\fizzbuzz\model\FizzBuzzVO.class
+com\prog\common\aspect\config\ApplicationConfiguration.class
+com\prog\fizzbuzz\controller\FizzBuzzController.class
+com\prog\common\aspect\log\LogRestRequest.class
+com\prog\fizzbuzz\creators\FizzBuzzCreator.class
+com\prog\fizzbuzz\model\ErrorVO.class
+com\prog\fizzbuzz\SpringBootRestApi.class
